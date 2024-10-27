@@ -1,0 +1,80 @@
+Número;Nome;Contacto
+50;José Ferreira   ;913456789
+221;Vera Sousa      ;916561277
+222;Vera Sousa      ;916561277
+223;Maksym Yavorenko;911735209
+224;Svitlana Yavoren;916561277
+225;Lúcia Rodrigues ;916561277
+226;Vera Sousa      ;916561277
+227;Carlos Miranda  ;916733134
+228;Carlos Miranda  ;916733134
+229;Paulo Ribeiro   ;918279078
+230;Paulo Ribeiro   ;918279078
+231;Artur Mendes    ;967484216
+232;Rúben Guimarães ;910732467
+233;Rúben Guimarães ;910732467
+234;Oleksandr Yavore;912522726
+235;Tatiana Sousa   ;916561277
+236;Tatiana Sousa   ;916561277
+237;Ricardo Amaro   ;915503677
+238;Maksym Yavorenko;911735209
+261;André Marques   ;915943074
+262;Teresa Marques  ;915443074
+263;Spartacus Silva ;925543560
+264;Spartacus Silva ;925543560
+265;Spartacus Silva ;925543560
+266;Manuel Fransisco;938190945
+267;Manuel Fransisco;938190945
+268;Francisco Barbos;938190945
+269;Carolina Ribeiro;916071500
+270;Carolina Ribeiro;916071500
+271;Carolina Ribeiro;916071500
+272;Carolina Ribeiro;916071500
+273;Carolina Ribeiro;916071500
+274;Sandro Silva    ;962317906
+275;Sandro Silva    ;962317906
+276;João Pedro      ;966429861
+277;João Pedro      ;966429861
+278;João Pedro      ;966429861
+279;João Pedro      ;966429861
+280;João Pedro      ;966429861
+281;Juro Joca       ;912135817
+282;Juro Joca       ;912135817
+283;Juro Joca       ;912135817
+284;Juro Joca       ;912135817
+285;Juro Joca       ;912135817
+286;Bruno Alves     ;965023419
+287;Bruno Alves     ;965023419
+288;Francisco Ruivo ;936221643
+289;Francisco Ruivo ;936221643
+290;Francisco Ruivo ;936221643
+291;António Lima    ;936414440
+292;António Lima    ;936414440
+293;Rodrigo Pilar   ;916276142
+294;Rodrigo Pilar   ;916276142
+295;Rodrigo Pilar   ;916276142
+296;Rodrigo Pilar   ;916276142
+297;Rodrigo Pilar   ;916276142
+298;Rodrigo Pilar   ;916276142
+299;Rodrigo Pilar   ;916276142
+300;Rodrigo Pilar   ;916276142
+481;Rúben Guimarães ;910732467
+482;Tiago Pereira   ;913085109
+483;Ana Fernandes   ;913796043
+484;Júlio Araújo    ;966862685
+485;Júlio Araújo    ;966862685
+486;Júlio Araújo    ;966862685
+487;Júlio Araújo    ;966862685
+488;Júlio Araújo    ;966862685
+489;Pedro Carneiro  ;964403041
+490;Pedro Carneiro  ;964403041
+491;Pedro Carneiro  ;964403041
+492;Pedro Carneiro  ;964403041
+493;Pedro Carneiro  ;964403041
+494;João Cunha      ;916261894
+495;João Cunha      ;916261894
+496;João Cunha      ;916261894
+497;João Cunha      ;916261894
+498;João Cunha      ;916261894
+499;Joana Araújo    ;913360562
+500;Joana Araújo    ;913360562
